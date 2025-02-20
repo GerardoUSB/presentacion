@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Currículum Vitae - Gerardo Cardozo Claros</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <div class="header-content">
+                <h1>Gerardo Cardozo Claros</h1>
+                <div class="photo">
+                    <img src="foto-gerardo.jpg" alt="Gerardo Cardozo Claros">
+                </div>
+            </div>
+        </header>
+
+        <section class="contact-info">
+            <h2>Información de Contacto</h2>
+            <ul>
+                <li>Email: gerardo@example.com</li>
+                <li>Teléfono: +1234567890</li>
+                <li>Dirección: Calle Ficticia 123, Ciudad</li>
+                <li>LinkedIn: linkedin.com/in/gerardocardozo</li>
+            </ul>
+        </section>
+
+        <section class="experience">
+            <h2>Experiencia Profesional</h2>
+            <ul>
+                <li>
+                    <h3>Desarrollador Web - Empresa X</h3>
+                    <p>2020 - 2023</p>
+                    <p>Responsable de crear sitios web interactivos utilizando HTML, CSS, JavaScript y frameworks modernos.</p>
+                </li>
+                <li>
+                    <h3>Diseñador Gráfico - Empresa Y</h3>
+                    <p>2017 - 2020</p>
+                    <p>Creación de materiales gráficos y visuales para campañas publicitarias.</p>
+                </li>
+            </ul>
+        </section>
+
+        <section class="education">
+            <h2>Educación</h2>
+            <ul>
+                <li>
+                    <h3>Licenciatura en Diseño Gráfico - Universidad Z</h3>
+                    <p>2013 - 2017</p>
+                </li>
+            </ul>
+        </section>
+
+        <section class="skills">
+            <h2>Habilidades</h2>
+            <ul>
+                <li>HTML5, CSS3, JavaScript</li>
+                <li>Photoshop, Illustrator</li>
+                <li>Trabajo en equipo y comunicación efectiva</li>
+            </ul>
+        </section>
+    </div>
+</body>
+</html>
