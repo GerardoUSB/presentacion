@@ -49,6 +49,10 @@ header .photo img {
 
 section {
     margin-bottom: 30px;
+    padding: 20px; /* Espaciado dentro de la sección */
+    border: 2px solid #444; /* Borde gris oscuro alrededor de cada sección */
+    border-radius: 8px; /* Bordes redondeados */
+    background-color: #1e2228; /* Fondo ligeramente más oscuro para las secciones */
 }
 
 section h2 {
